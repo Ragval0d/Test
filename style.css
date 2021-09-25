@@ -1,3 +1,12 @@
+.widget-title {
+    font-size: 1.2rem;
+    color: rgb(74, 9, 139);
+    
+}
+.first-btn {
+    background-color: rgb(52, 98, 235);
+    border: 1px solid rgb(3, 54, 207);
+}
 .Lorem {
     color: green;
 }
